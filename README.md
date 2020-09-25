@@ -42,4 +42,4 @@ $ python3 flask_server.py
 
 ### How it looks 
 we know it looks simple but that was intentional :)
-
+![screenshot of whatsapp ](https://github.com/KartikKapil/Fakenews/blob/master/Screenshot%20from%202020-09-25%2018-28-08.png)
