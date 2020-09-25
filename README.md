@@ -40,4 +40,6 @@ $ python3 flask_server.py
 * Also if you wanna retrain the model it is super simple take few news item and use the train_model fuction in model.py
 * You can save the incoming messages as well
 
-
+### How it looks 
+we know it looks simple but that was intentional :)
+![screenshot of whatsapp ](https://github.com/KartikKapil/Fakenews/blob/master/Screenshot%20from%202020-09-25%2018-28-08.png)
