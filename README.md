@@ -38,7 +38,7 @@ $ cd Fakenews
 $ python3 flask_server.py 
 ```
 
-* Also if you wanna retrain the model it is super simple take few news item and use the train_model fuction in model.py
+* Also if you wanna retrain the model it is super simple take few news item and use the train_model function in model.py
 * You can save the incoming messages as well
 
 ### How it looks 
